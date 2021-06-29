@@ -25,11 +25,11 @@
 .about h3{
     font-family: var(--fontFamily-titulo);
     font-weight: 100;
-    color: #44a391;
+    color: var(--colorVerde);
 }
 
 .about p{
-    color: #44a391;
+    color: var(--colorVerde);
     margin-top: 10px;
 }
 
